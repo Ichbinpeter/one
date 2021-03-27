@@ -16,7 +16,7 @@
 ```javascript
 console.log("hello")
 ```
-我的网站是[Peter的个人网站](http://abc.com)
+我的网站是[Peter的个人网站](https://cn.bing.com/?FORM=BEHPTB)
 
 查看远程仓库[github](http://github.com)
 
